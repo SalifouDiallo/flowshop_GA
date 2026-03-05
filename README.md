@@ -70,7 +70,7 @@ Plus le makespan est faible, meilleure est la solution.
 ---
 
 # Structure du projet
-
+```
 flowshop_GA/
 │
 ├── main.cpp
@@ -78,7 +78,7 @@ flowshop_GA/
 │
 └── docs/
 └── rapport.pdf
-
+```
 
 ---
 
