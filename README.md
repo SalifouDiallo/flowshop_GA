@@ -126,3 +126,8 @@ Le programme affiche :
 
 ---
 
+## Rapport complet
+
+Le rapport complet du projet est disponible ici :
+
+[Voir le rapport](docs/rapport.pdf)
