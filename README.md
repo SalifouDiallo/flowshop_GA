@@ -12,7 +12,7 @@ Ce projet a été réalisé dans le cadre du cours
 
 **Stage-projet I – 8INF309**
 
-à l'**Université du Québec à Chicoutimi (UQAC)** durant la session **Été 2025**.
+à l'**Université du Québec à Chicoutimi (UQAC)** durant la session **Automne 2025**.
 
 Le projet a été développé sous la supervision du professeur  
 
