@@ -180,7 +180,7 @@ Où `n` = nombre de tâches et `m` = nombre de machines.
 
 Le rapport détaillé du projet (analyse, résultats, comparaisons) est disponible ici :
 
-[📄 Voir le rapport PDF](documents/rapport.pdf)
+[📄 Voir le rapport PDF](docs/rapport.pdf)
 
 ---
 
